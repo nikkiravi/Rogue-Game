@@ -59,7 +59,7 @@ Child class for the creature class and is dedicated to the player
 ### Rogue.java
 Main file
 
-###Room.java
+### Room.java
 Functions dedicated to storing information about the items and creatures in the room
 
 ### Scroll.java
