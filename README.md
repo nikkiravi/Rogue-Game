@@ -71,5 +71,5 @@ Child class of items dedicated to swords
 ### Teleport.java
 Monster teleports each time you attack him
 
-###Final.mp4
+### Final.mp4
 Video demonstrates the functionality of the game
